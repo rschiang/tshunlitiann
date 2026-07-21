@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "name": "BanG Dream!",
+  "homepage": "https://github.com/rschiang/tshunlitiann/tree/bang-dream",
+  "report": "https://github.com/rschiang/tshunlitiann/issues/new",
+  "categories": [
+    {
+      "id": "mygo",
+      "name": "BanG Dream! It's MyGO!!!!!",
+      "language": "zh-Hant-TW",
+      "url": "mygo.json"
+    },
+    {
+      "id": "avemujica",
+      "name": "BanG Dream! Ave Mujica",
+      "language": "zh-Hant-TW",
+      "url": "avemujica.json"
+    }
+  ]
+}
