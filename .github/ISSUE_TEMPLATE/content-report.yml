@@ -1,0 +1,40 @@
+name: Content report
+description: Report a catalog entry that should be reviewed or removed
+title: "Content report: "
+labels: [content-report]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to ask catalog maintainers to review or remove an entry. If the image itself is hosted elsewhere, contact that host for removal of the stored file.
+  - type: input
+    id: source
+    attributes:
+      label: Source index URL
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Category ID
+    validations:
+      required: true
+  - type: input
+    id: frame
+    attributes:
+      label: Frame ID
+    validations:
+      required: true
+  - type: input
+    id: image
+    attributes:
+      label: Image URL
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason for review
+      description: Do not post private personal or legal information in a public issue.
+    validations:
+      required: true
