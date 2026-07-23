@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "id": "spring",
+  "name": "Shades of Spring",
+  "language": "zh-Hant-TW",
+  "attribution": {
+    "text": "Ceiba",
+    "url": "https://www.youtube.com/playlist?list=PL12UaAf_xzfqYGkaq7fR0DpB6osiuNlYu"
+  },
+  "subsections": [
+    {
+      "id": "ep01", "name": "第1集"
+    },
+    {
+      "id": "ep02", "name": "第2集"
+    },
+    {
+      "id": "ep07", "name": "第7集"
+    },
+    {
+      "id": "ep08", "name": "第8集"
+    },
+    {
+      "id": "ep09", "name": "第9集"
+    },
+    {
+      "id": "ep10", "name": "第10集"
+    }
+  ],
+  "frames": [
+    {
+      "url": "images/%E5%91%B3%E9%81%93%E9%86%87%E9%A6%99%EF%BC%8C%E6%88%91%E5%BE%88%E5%96%9C%E6%AD%A1.jpg",
+      "timecode": "07:28",
+      "caption": "味道醇香，我很喜歡",
+      "subsection": "ep02"
+    },
+    {
+      "url": "images/%E7%82%BA%E4%BB%80%E9%BA%BC%E8%A6%81%E6%BC%94%E5%A5%8F%E6%98%A5%E6%97%A5%E5%BD%B1%EF%BC%81.jpg",
+      "timecode": "20:56",
+      "caption": "為什麼要演奏春日影！",
+      "subsection": "ep07"
+    },
+    {
+      "url": "images/CRYCHIC%E5%B7%B2%E7%B6%93%E6%AF%80%E4%BA%86.jpg",
+      "timecode": "19:18",
+      "caption": "CRYCHIC已經毀了",
+      "subsection": "ep08"
+    },
+    {
+      "url": "images/%E6%88%91%E6%83%B3%E8%AE%93CRYCHIC%E9%87%8D%E6%96%B0%E9%96%8B%E5%A7%8B.jpg",
+      "timecode": "19:29",
+      "caption": "我想讓CRYCHIC重新開始",
+      "subsection": "ep08"
+    },
+    {
+      "url": "images/%E6%B1%82%E6%B1%82%E5%A6%B3.jpg",
+      "timecode": "20:50",
+      "caption": "求求妳",
+      "subsection": "ep08"
+    },
+    {
+      "url": "images/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%B8%8D%E8%A1%8C.jpg",
+      "timecode": "17:00",
+      "caption": "為什麼不行",
+      "subsection": "ep09"
+    },
+    {
+      "url": "images/%E6%88%91%E6%84%9B%E6%85%95%E8%99%9B%E6%A6%AE%E5%95%A6.jpg",
+      "timecode": "14:01",
+      "caption": "我愛慕虛榮啦",
+      "subsection": "ep10"
+    }
+  ]
+}

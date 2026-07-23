@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "name": "Dreamy",
+  "homepage": "https://github.com/rschiang/tshunlitiann/tree/example",
+  "report": "https://github.com/rschiang/tshunlitiann/issues/new/choose",
+  "categories": [
+    {
+      "id": "spring",
+      "name": "Shades of Spring",
+      "language": "zh-Hant-TW",
+      "url": "spring.json"
+    }
+  ]
+}
