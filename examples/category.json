@@ -4,6 +4,7 @@
   "id": "spring-flowers-zh-tw",
   "name": "春花",
   "language": "zh-Hant-TW",
+  "cover": "images/hello.jpg",
   "attribution": {
     "text": "Public-domain example",
     "url": "https://example.com/rights"
